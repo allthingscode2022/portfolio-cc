@@ -1,0 +1,32 @@
+{
+  "name": "portfolio",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "debug": "^4.3.4",
+    "react": "^16.8.1",
+    "react-device-detect": "^1.6.2",
+    "react-dom": "^16.8.1",
+    "react-scripts": "^2.1.5",
+    "react-scrollspy": "^3.3.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "engines": {
+    "node": "16.14.2",
+    "npm": "9.8.1"
+  }
+}
